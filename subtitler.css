@@ -1,0 +1,9 @@
+div.subtitle {
+	position: relative;
+	background-image: url(black_bg.png);
+	color: white;
+	padding: 4px;
+	font: 11px "Verdana",sans-serif;
+	height: 20px;
+	margin-top:-28px;
+}
